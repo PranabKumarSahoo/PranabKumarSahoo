@@ -10,9 +10,9 @@
 Learner • Programmer • Developer • Open Source Enthusiast • passionate about coding 
 
 
-#### Techstack: [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]()  [![HTML](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)]() ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+#### Techstack: [![HTML](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)]() ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]()   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 
-- 🌱 I’m currently learning  Competative Programming Languages
+- 🌱 I’m currently learning Competative Programming Languages
 - 😄 Pronouns: He/Him 
 - 📧 Contact me : kumarspranab19@gmail.com
 
