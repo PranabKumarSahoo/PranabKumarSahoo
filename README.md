@@ -22,6 +22,7 @@ Learner • Programmer • Developer • Open Source Enthusiast • passionate a
 
 <a href="https://www.twitter.com/PranabKS11" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/PranabKS11?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://github.com/PranabKumarSahoo" target="_blank" rel="noreferrer"><img
+/></a>
+<a href="https://github.com/PranabKumarSahoo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PranabKumarSahoo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
