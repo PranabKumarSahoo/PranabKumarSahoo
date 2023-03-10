@@ -20,13 +20,8 @@ Learner • Programmer • Developer • Open Source Enthusiast • passionate a
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranabks/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PranabKS11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.thepranab._/)
 
-<a href="https://github.com/PranabKumarSahoo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/PranabKumarSahoo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.linkedin.com/in/pranabks/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/linkedin/follow/pranabks?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 <a href="https://www.twitter.com/PranabKS11" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/PranabKS11?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-<a href="https://www.instagram.com/_.thepranab._/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/instagram/followers/_.thepranab._?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/PranabKumarSahoo" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/PranabKumarSahoo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
