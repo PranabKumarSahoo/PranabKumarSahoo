@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://github.com/Arindam200/Arindam200/blob/main/github-header-image.png)](https://github.com/PranabKumarSahoo)
+[![MasterHead]()](https://github.com/PranabKumarSahoo)
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;I+am+open-minded+and+eager+to+learn;Interested+in+Open-Source...;Have+a+nice+day+ahead+!!"></p>
 
 ###  Pranab Kumar Sahoo 
