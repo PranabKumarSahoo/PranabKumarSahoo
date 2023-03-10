@@ -25,4 +25,3 @@ src="https://img.shields.io/twitter/follow/PranabKS11?logo=twitter&style=for-the
 /></a><a href="https://github.com/PranabKumarSahoo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PranabKumarSahoo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-**PranabKumarSahoo/PranabKumarSahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
