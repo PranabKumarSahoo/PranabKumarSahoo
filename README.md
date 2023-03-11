@@ -2,10 +2,10 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;I+am+programmer+and+developer;cloud+enthusiastic;Interested+in+Open-Source...;Have+a+nice+day+ahead+!!"></p>
 
 # About Me
-##  Pranab Kumar Sahoo 
-### Learner
+Hi there, 
+I'm Pranab Kumar Sahoo 
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
-Learner • Programmer • Developer • Cloud Enthusiastic
+#### Learner • Programmer • Developer • Cloud Enthusiastic
 - 😄 Pronouns: He/Him 
 - 🌱 Currently exploring Web Development, Competative Programmings
 - 📧 Contact : kumarspranab19@gmail.com
