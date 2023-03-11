@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/PranabKumarSahoo/PranabKumarSahoo/blob/main/github-profile-header.gif)](https://github.com/PranabKumarSahoo)
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=31CBD4&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;Keep+exploring;Have+a+nice+day+ahead+!!"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=31CBD4&size=25&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;Keep+exploring;Have+a+nice+day+ahead+!!"></p>
 
 ## About Me
 Hi there, 
