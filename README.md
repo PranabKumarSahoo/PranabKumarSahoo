@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/PranabKumarSahoo/PranabKumarSahoo/blob/main/github-profile-header.gif)](https://github.com/PranabKumarSahoo)
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;I+am+programmer+and+developer;cloud+enthusiastic;Interested+in+Open-Source...;Have+a+nice+day+ahead+!!"></p>
 
-# About Me
+## About Me
 Hi there, 
 I'm Pranab Kumar Sahoo 
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
@@ -15,4 +15,5 @@ I'm Pranab Kumar Sahoo
 
 ---
 
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranabks/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.thepranab._/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PranabKS11)
+## 🌐 Socials: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranabks/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.thepranab._/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PranabKS11)
