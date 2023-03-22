@@ -10,8 +10,8 @@
 
 #### Learner • Programmer • Developer • Cloud Enthusiastic
 - 😄 Pronouns: He/Him 
-- 🌱 Currently exploring Web Development, Competative Programmings
-- 👨‍💻 Passionate about Coding
+- 🌱 Currently explore Competative Programming
+- 👨‍💻 Passionate about Web Development 
 - 📖 Interested in Open Source
 - 📧 Contact : kumarspranab19@gmail.com
 - 💫 Fact : Coding and programming is like bread and butter.
