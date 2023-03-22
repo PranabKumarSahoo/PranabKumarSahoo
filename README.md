@@ -3,7 +3,7 @@
 
 ## 🙎 About Me
 
-<img align="center" alt="coding" width="300" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
+<img align="right" alt="coding" width="300" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
 
 Hi there, 
 
