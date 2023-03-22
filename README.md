@@ -10,7 +10,7 @@
 
 #### Learner • Programmer • Developer • Cloud Enthusiastic
 - 😄 Pronouns: He/Him 
-- 💻 Aspiring Software Developer 
+- 💻 Aspiring Developer 
 - 🌱 Currently explore Competative Programming
 - 👨‍💻 Passionate about Web Development 
 - 📖 Interested in Open Source
