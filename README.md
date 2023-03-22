@@ -2,13 +2,11 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=31CBD4&size=25&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;Keep+exploring;Have+a+nice+day+ahead+!!"></p>
 
 ## 🙎 About Me
+Oo
+#### Learner • Programmer • Developer • Cloud Enthusiastic
 
 <img align="right" alt="coding" width="300" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
 
- 
-
-
-#### Learner • Programmer • Developer • Cloud Enthusiastic
 - 😄 Pronouns: He/Him 
 - 💻 Aspiring Developer 
 - 🌱 Currently explore Competative Programming
