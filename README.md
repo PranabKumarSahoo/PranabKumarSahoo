@@ -1,11 +1,8 @@
 [![MasterHead](https://github.com/PranabKumarSahoo/PranabKumarSahoo/blob/main/github-profile-header.gif)](https://github.com/PranabKumarSahoo)
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=31CBD4&size=25&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;Keep+exploring;Have+a+nice+day+ahead+!!"></p>
 
 ## 🙎 About Me
 
 #### Learner • Programmer • Developer • Cloud Enthusiastic
-
-<img align="right" alt="coding" width="300" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
 
 - 😄 Pronouns: He/Him 
 - 💻 Aspiring Developer 
