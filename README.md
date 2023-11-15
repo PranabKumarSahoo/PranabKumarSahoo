@@ -1,7 +1,3 @@
-[![MasterHead](https://github.com/PranabKumarSahoo/PranabKumarSahoo/blob/main/github-profile-header.gif)](https://github.com/PranabKumarSahoo)
-
-## 🙎 About Me
-
 #### Learner • Programmer • Developer • Cloud Enthusiastic
 
 - 😄 Pronouns: He/Him 
