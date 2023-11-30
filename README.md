@@ -1,10 +1,11 @@
+## Hi, Myself Pranab! 👋
 #### Learner • Programmer • Developer • Cloud Enthusiastic
 
 - 😄 Pronouns: He/Him 
 - 💻 Aspiring Software Developer 
 - 🌱 Currently exploring MERN Stack
 - 👨‍💻 Passionate about Web Development 
-- 📖 Interested in Open Source
+- 📖 Interested in Open Source Contribution
 - 📧 Contact : kumarspranab19@gmail.com
 
 ## ⚙️ Techstack: 
