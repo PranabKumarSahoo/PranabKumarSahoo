@@ -13,6 +13,7 @@
 * Tailwind CSS, Bootstrap, Sass
 * Git & GitHub
 * Node.js and Express.js for server-side development
+* RESTAPIs
 * MongoDB for database management
 * Firebase, Vercel, Netlify for Deployment 
 
