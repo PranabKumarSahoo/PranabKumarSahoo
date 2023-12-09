@@ -1,4 +1,4 @@
-## Hi there, Myself Pranab! 👋
+## Hi, I'm Pranab! 👋
 ## I'm a Full-Stack Developer
 #### Learner • Programmer • Developer • Cloud Enthusiastic
 
