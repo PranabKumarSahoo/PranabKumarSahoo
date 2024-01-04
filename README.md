@@ -1,6 +1,6 @@
 ## Hi, I'm Pranab! 👋
 ## I'm a Full-Stack Developer
-#### Learner • Programmer • Developer • Cloud Enthusiastic
+#### Open-Source Contributor • Programmer • Developer • Cloud Enthusiastic
 
 - 😄 Pronouns: He/Him 
 - 🌱 Currently exploring MERN Stack
