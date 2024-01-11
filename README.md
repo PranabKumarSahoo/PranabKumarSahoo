@@ -1,5 +1,5 @@
 ## Hi, I'm Pranab! 👋
-## I'm a Full-Stack Developer
+## Passionate Frontend/React Developer
 #### Open-Source Contributor • Programmer • Developer • Cloud Enthusiastic
 
 - 😄 Pronouns: He/Him 
