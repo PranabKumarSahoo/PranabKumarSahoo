@@ -2,7 +2,7 @@
 ## Passionate Frontend/React Developer
 #### Open-Source Contributor • Programmer • Developer • Cloud Enthusiastic
 
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him
 - 🌱 Currently exploring MERN Stack
 - 🧑‍💻 Self-taught Developer
 - 📖 Interested in Open Source Contribution
