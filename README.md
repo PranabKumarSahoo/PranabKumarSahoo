@@ -10,7 +10,7 @@
 
 ## ⚙️ Techstack:
 * HTML, CSS, JavaScript, React
-* Tailwind CSS, Bootstrap, Sass
+* Tailwind CSS, Bootstrap
 * Git & GitHub
 * Node.js and Express.js for server-side development
 * RESTAPIs
