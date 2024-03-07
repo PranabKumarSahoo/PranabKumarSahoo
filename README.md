@@ -12,10 +12,10 @@
 * HTML, CSS, JavaScript, React
 * Tailwind CSS, Bootstrap
 * Git & GitHub
-* Node.js and Express.js for server-side development
+* Node.js and Express.js
 * RESTAPIs
-* MongoDB for database management
-* Firebase, Vercel, Netlify for Deployment 
+* MongoDB - Database Management
+* Firebase, Vercel, Netlify - Deployment 
 
 ---
 
