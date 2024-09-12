@@ -1,5 +1,5 @@
 ## Hi, I'm Pranab! 👋
-## Passionate Frontend/React Developer
+## Frontend/React Developer
 #### Open-Source Contributor • Programmer • Developer • Cloud Enthusiastic
 
 - 😄 Pronouns: He/Him
@@ -9,13 +9,12 @@
 - 📧 Contact : kumarspranab19@gmail.com
 
 ## ⚙️ Techstack:
-* HTML, CSS, JavaScript, React
-* Tailwind CSS, Bootstrap
+* React, JavaScript, TypeScript
+* Tailwind CSS, Material UI
 * Git & GitHub
 * Node.js and Express.js
 * RESTAPIs
-* MongoDB - Database Management
-* Firebase, Vercel, Netlify - Deployment 
+* MongoDB, Firebase - Database Management
 
 ---
 
